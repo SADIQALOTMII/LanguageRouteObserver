@@ -849,17 +849,4 @@ class InventoryDetailsScreen extends StatelessWidget {
 4. ✅ **سهولة الاستخدام** (wrapper widget بسيط)
 5. ✅ **مرونة** (يعمل مع أي Cubit/Bloc)
 
-**الملفات الرئيسية:**
-- `lib/core/widgets/language_aware_widget.dart`
-- `lib/app_modules/global_app_bar.dart`
-- `lib/core/navigation/language_route_observer.dart`
-
-**الشاشات المطبقة:**
-- ✅ جميع شاشات قسم العملاء (Customers)
-- ✅ جميع شاشات قسم المناقصات (Bidders)
-- ✅ جميع الشاشات التي تعرض بيانات من API
-
----
-
-**آخر تحديث:** 2024
 
